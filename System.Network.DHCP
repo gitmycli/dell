@@ -1,1 +1,2 @@
-set System.Network.DHCP 0
+ver.1 13/02/2020
+set System.Network.DHCP 1 | 0
